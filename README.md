@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+<!-- # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -68,4 +68,43 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
->>>>>>> a261afd (Set up initial structure for To-Do List project)
+>>>>>>> a261afd (Set up initial structure for To-Do List project) -->
+
+# Todo List 
+A simple and responsive To-Do List web application built using React.js. The project allows users to add, edit, delete, and mark tasks as completed.
+
+# UI Preview
+![Todo List](Todo-list.png)
+
+# 🚀Features
+✅ Add new tasks
+✅ Edit existing tasks
+✅ Mark tasks as completed or pending
+✅ Delete tasks when no longer needed
+✅ Responsive and user-friendly UI
+
+
+# 🛠️ Tech Stack
+Frontend: React.js
+Styling: CSS
+
+# ⚡1. Getting Started
+git clone https://github.com/yourusername/to-do-list.git
+cd frontend
+
+# 2. Install Dependencies
+npm install
+
+# 4. Start the Development Server
+npm start
+
+# 📌 Future Enhancements
+✅ Add due dates and reminders
+✅ Implement task categories and filters
+✅ Introduce drag-and-drop task reordering
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
