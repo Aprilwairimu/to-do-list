@@ -74,7 +74,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 A simple and responsive To-Do List web application built using React.js. The project allows users to add, edit, delete, and mark tasks as completed.
 
 # UI Preview
-![Todo List](Todo-list.png)
+![Todo List](public/Todo-list.png)
 
 # 🚀Features
 ✅ Add new tasks
